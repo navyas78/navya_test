@@ -2,5 +2,5 @@
 
 # Hey this is my first repo
 git add <filename>
-git commit -m "some status"
+git commit --m "some status"
 
